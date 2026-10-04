@@ -1,0 +1,6 @@
+venv/
+data/
+*.docx
+!compromise_report.docx
+~$*.docx
+__pycache__/

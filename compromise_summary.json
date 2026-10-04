@@ -1,0 +1,784 @@
+{
+  "EPD24DBC": [
+    "USB: Suspicious mass storage 'abcd:1234' inserted at 22-09-2026 18:23:12",
+    "USB: Suspicious mass storage 'abcd:1234' inserted at 22-09-2026 18:23:41",
+    "USB: Suspicious mass storage 'abcd:1234' inserted at 22-09-2026 18:23:12",
+    "USB: Suspicious mass storage 'abcd:1234' inserted at 22-09-2026 18:23:41",
+    "C2 Beacon: Connected to suspicious domains ['n279f.svc-c4f9a4.gov.example', 'svc-1ca9c2.gov.example', 'www.n0733.svc-8e8375.example']",
+    "EVASION: Endpoint AV/Logging agent was forcibly disabled."
+  ],
+  "EPZRAPEL": [
+    "AV: Malicious file(s) quarantined: 53EDA42869D426262B752F088EA605187284ACE8",
+    "C2 Beacon: Connected to suspicious domains ['svc-1ca9c2.gov.example', 'svc-c06b6c.gov.example', 'n279f.svc-c4f9a4.gov.example']"
+  ],
+  "EPOC6Y4R": [
+    "AV: Malicious file(s) quarantined: recently-used.xbel",
+    "C2 Beacon: Connected to suspicious domains ['www.svc-41785f.gov.example', 'www.n0733.svc-8e8375.example', 'n9fa9.svc-347513.example']"
+  ],
+  "EPJYEC7F": [
+    "AV: Malicious file(s) quarantined: recently-used.xbel",
+    "C2 Beacon: Connected to suspicious domains ['n0733.svc-d21b43.gov.example', 'n22ce.svc-72dec3.example', 'www.svc-fbf038.gov.example']"
+  ],
+  "EPMQTKSL": [
+    "AV: Malicious file(s) quarantined: recently-used.xbel",
+    "C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'static.svc-5603a2.example', 'n9f9c.svc-d93955.example']"
+  ],
+  "EPC2L3UH": [
+    "AV: Malicious file(s) quarantined: recently-used.xbel",
+    "C2 Beacon: Connected to suspicious domains ['svc-c06b6c.gov.example', 'svc-1ca9c2.gov.example', 'n22ce.svc-72dec3.example']"
+  ],
+  "EPAGTKNF": [
+    "AV: Malicious file(s) quarantined: Buy CP PLUS Dashboard Camera, Warranty NONE 1 year online _ Public Procurement Portal (PPP).pdf",
+    "C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'static.svc-5603a2.example', 'n5dd6.svc-d93955.example']"
+  ],
+  "EPJ42VCZ": [
+    "AV: Malicious file(s) quarantined: RAGHAV STNC STNA.pdf, RAGHAV STNA STNB.pdf",
+    "C2 Beacon: Connected to suspicious domains ['static.svc-5603a2.example', 'n5dd6.svc-d93955.example', 'n307e.svc-d93955.example']"
+  ],
+  "EPPGWIOF": [
+    "AV: Malicious file(s) quarantined: rawtobr3, brprintconflsr3",
+    "C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'n7f34.svc-d93955.example', 'static.svc-5603a2.example']"
+  ],
+  "EPQKOBYG": [
+    "AV: Malicious file(s) quarantined: win-lbp623-621-fw-v1301(1).exe",
+    "C2 Beacon: Connected to suspicious domains ['svc-1ca9c2.gov.example', 'n9fa9.svc-347513.example', 'n0cc7.svc-7000b3.gov.example']"
+  ],
+  "EPMDU6L5": [
+    "AV: Malicious file(s) quarantined: recently-used.xbel",
+    "C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'n7f34.svc-d93955.example', 'static.svc-5603a2.example']"
+  ],
+  "EPFQSCDV": [
+    "AV: Malicious file(s) quarantined: recently-used.xbel",
+    "C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'static.svc-5603a2.example', 'n5dd6.svc-d93955.example']"
+  ],
+  "EPEEHWSG": [
+    "AV: Malicious file(s) quarantined: Library Books.xlsx",
+    "C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'static.svc-5603a2.example', 'n5dd6.svc-d93955.example']"
+  ],
+  "EPR4BEDS": [
+    "AV: Malicious file(s) quarantined: recently-used.xbel",
+    "C2 Beacon: Connected to suspicious domains ['svc-1ca9c2.gov.example', 'svc-c06b6c.gov.example', 'n9fa9.svc-347513.example']"
+  ],
+  "EPGSQVEB": [
+    "AV: Malicious file(s) quarantined: Final_Documents.zip",
+    "C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'static.svc-5603a2.example', 'ns3.svc-509b25.example']"
+  ],
+  "EP4YIFHV": [
+    "AV: Malicious file(s) quarantined: load-ec-i18n.bundle.js, shopping_iframe_driver.js, wallet_checkout_autofill_driver.js, webui-setup.js, tokenized-card.bundle.js, notification.bundle.js, app-setup.js, bnpl.bundle.js, load-hub-i18n.bundle.js, crypto.bundle.js, c3f9c4a416e9e493005fc3f97adacbcf12956a81cc6c645d255fd023442c8120, edge_driver.js, bnpl_driver.js, runtime.bundle.js, miniwallet.bundle.js, load-ec-deps.bundle.js, buynow_driver.js, wallet_donation_driver.js, notification_fast.bundle.js, wallet-buynow.bundle.js",
+    "C2 Beacon: Connected to suspicious domains ['svc-c06b6c.gov.example', 'svc-1ca9c2.gov.example', 'n22ce.svc-72dec3.example']"
+  ],
+  "EPT3KTUL": [
+    "AV: Malicious file(s) quarantined: Dash Camera-49600.00.pdf",
+    "C2 Beacon: Connected to suspicious domains ['svc-c06b6c.gov.example', 'svc-1ca9c2.gov.example', 'na128.svc-c4f9a4.gov.example']"
+  ],
+  "EPDRB236": [
+    "AV: Malicious file(s) quarantined: recently-used.xbel",
+    "C2 Beacon: Connected to suspicious domains ['svc-1ca9c2.gov.example', 'www.svc-4cdfed.gov.example', 'n9fa9.svc-347513.example']"
+  ],
+  "EPRD7FJT": [
+    "AV: Malicious file(s) quarantined: 12th Plan Works Dashboard.pdf",
+    "C2 Beacon: Connected to suspicious domains ['svc-c06b6c.gov.example', 'svc-1ca9c2.gov.example', 'n9fa9.svc-347513.example']"
+  ],
+  "EPMVZYZO": [
+    "AV: Malicious file(s) quarantined: mydoc-9.pdf, mydoc-75.pdf, mydoc-10.pdf, mydoc.pdf",
+    "C2 Beacon: Connected to suspicious domains ['n279f.svc-c4f9a4.gov.example', 'svc-c06b6c.gov.example', 'svc-1ca9c2.gov.example']"
+  ],
+  "EPJ76RZV": [
+    "AV: Malicious file(s) quarantined: COMPRESSED FINAL COMPARISION RETIREES WELFARE1.xlsx",
+    "C2 Beacon: Connected to suspicious domains ['svc-c06b6c.gov.example', 'n22ce.svc-72dec3.example', 'n9fa9.svc-347513.example']"
+  ],
+  "EPVC2P55": [
+    "AV: Malicious file(s) quarantined: Data1.cab",
+    "C2 Beacon: Connected to suspicious domains ['svc-c06b6c.gov.example', 'svc-1ca9c2.gov.example', 'svc-c4e3ba.gov.example']"
+  ],
+  "EPLDM6PE": [
+    "AV: Malicious file(s) quarantined: recently-used.xbel",
+    "C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'n22ce.svc-72dec3.example', 'n279f.svc-c4f9a4.gov.example']"
+  ],
+  "EPAJI3E5": [
+    "AV: Malicious file(s) quarantined: Lakeside traders.pdf, Lakeside traders.docx",
+    "C2 Beacon: Connected to suspicious domains ['svc-026a8c.gov.example', 'www.svc-3e9d15.gov.example', 'n32c5.svc-c4f9a4.gov.example']"
+  ],
+  "EP3GALVS": [
+    "AV: Malicious file(s) quarantined: recently-used.xbel",
+    "C2 Beacon: Connected to suspicious domains ['static.svc-5603a2.example', 'n5dd6.svc-d93955.example', 'n307e.svc-d93955.example']"
+  ],
+  "EPNPX6VY": [
+    "AV: Malicious file(s) quarantined: Microsoft.Practices.EnterpriseLibrary.Common.dll",
+    "C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'n7f34.svc-d93955.example', 'static.svc-5603a2.example']"
+  ],
+  "EPSES7ZK": [
+    "AV: Malicious file(s) quarantined: hp_LJ1020_Full_Solution-v2012_918_1_57980(1).exe",
+    "C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'static.svc-5603a2.example', 'svc-74f9c0.gov.example']"
+  ],
+  "EPF4AJCM": [
+    "AV: Malicious file(s) quarantined: libreoffice-calc.desktop",
+    "C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'static.svc-5603a2.example', 'n5dd6.svc-d93955.example']"
+  ],
+  "EPQBJBDX": [
+    "AV: Malicious file(s) quarantined: dash cam.pdf",
+    "C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'n7f34.svc-d93955.example', 'static.svc-5603a2.example']"
+  ],
+  "EPVSWBNA": [
+    "AV: Malicious file(s) quarantined: zshp1020s.dll, launcher.exe, Strings.dll",
+    "C2 Beacon: Connected to suspicious domains ['svc-c06b6c.gov.example', 'svc-1ca9c2.gov.example', 'n1799.svc-d93955.example']"
+  ],
+  "EPWZ7L6L": [
+    "AV: Malicious file(s) quarantined: ops-electron-app.desktop",
+    "C2 Beacon: Connected to suspicious domains ['svc-c06b6c.gov.example', 'svc-171e30.gov.example', 'svc-c4e3ba.gov.example']"
+  ],
+  "EP2SJ6NE": [
+    "AV: Malicious file(s) quarantined: libreoffice-calc.desktop",
+    "C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'n22ce.svc-72dec3.example', 'n279f.svc-c4f9a4.gov.example']"
+  ],
+  "EPSJWX5J": [
+    "AV: Malicious file(s) quarantined: Staff_Library_Payment_Final.docx",
+    "C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'n7f34.svc-d93955.example', 'static.svc-5603a2.example']"
+  ],
+  "EP7UYCXM": [
+    "AV: Malicious file(s) quarantined: libeToken.so.10.7.77",
+    "C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'static.svc-5603a2.example', 'n5dd6.svc-d93955.example']"
+  ],
+  "EPIEJIZC": [
+    "C2 Beacon: Connected to suspicious domains ['svc-c06b6c.gov.example', 'svc-1ca9c2.gov.example', 'www.n0733.svc-8e8375.example']"
+  ],
+  "EP6D7K7J": [
+    "C2 Beacon: Connected to suspicious domains ['n279f.svc-c4f9a4.gov.example', 'n4937.svc-c4f9a4.gov.example', 'n32c5.svc-c4f9a4.gov.example']"
+  ],
+  "EP5DHOIP": [
+    "C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'static.svc-5603a2.example', 'n9f9c.svc-d93955.example']"
+  ],
+  "EP63QFAS": [
+    "C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'n7f34.svc-d93955.example', 'static.svc-5603a2.example']"
+  ],
+  "EPBMNRN7": [
+    "C2 Beacon: Connected to suspicious domains ['svc-d72f45.gov.example', 'svc-1ca9c2.gov.example', 'svc-247cbb.gov.example']"
+  ],
+  "EPKYLAT4": [
+    "C2 Beacon: Connected to suspicious domains ['svc-1ca9c2.gov.example', 'svc-d72f45.gov.example', 'svc-247cbb.gov.example']"
+  ],
+  "EPUJL36T": [
+    "C2 Beacon: Connected to suspicious domains ['svc-c06b6c.gov.example', 'svc-1ca9c2.gov.example', 'svc-247cbb.gov.example']"
+  ],
+  "EPFF7UHG": [
+    "C2 Beacon: Connected to suspicious domains ['svc-1ca9c2.gov.example', 'svc-c06b6c.gov.example', 'www.nbc6e.svc-ebcad2.gov.example']"
+  ],
+  "EPQISY6K": [
+    "C2 Beacon: Connected to suspicious domains ['svc-1ca9c2.gov.example', 'svc-c06b6c.gov.example', 'www.svc-7f2bdc.example']"
+  ],
+  "EPYJFFRM": [
+    "C2 Beacon: Connected to suspicious domains ['svc-d72f45.gov.example', 'svc-1ca9c2.gov.example', 'svc-247cbb.gov.example']"
+  ],
+  "EPWEVZJP": [
+    "C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'static.svc-5603a2.example', 'n5dd6.svc-d93955.example']"
+  ],
+  "EPV7MB2K": [
+    "C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'n22ce.svc-72dec3.example', 'nd8d4.svc-3e9d15.gov.example']"
+  ],
+  "EPQPZCCJ": [
+    "C2 Beacon: Connected to suspicious domains ['svc-1ca9c2.gov.example', 'svc-c06b6c.gov.example', 'n279f.svc-c4f9a4.gov.example']"
+  ],
+  "EP3ZPBUE": [
+    "C2 Beacon: Connected to suspicious domains ['nfaa3.svc-00e076.gov.example', 'svc-c06b6c.gov.example', 'n6d63.svc-00e076.gov.example']"
+  ],
+  "EPWGE25U": [
+    "C2 Beacon: Connected to suspicious domains ['svc-d72f45.gov.example', 'svc-c06b6c.gov.example', 'svc-247cbb.gov.example']"
+  ],
+  "EPFQEJS4": [
+    "C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'static.svc-5603a2.example', 'n5dd6.svc-d93955.example']"
+  ],
+  "EPYRW5CW": [
+    "C2 Beacon: Connected to suspicious domains ['svc-c06b6c.gov.example', 'svc-1ca9c2.gov.example', 'svc-247cbb.gov.example']"
+  ],
+  "EPAR5TSH": [
+    "C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'www.svc-06e1ac.gov.example', 'n22ce.svc-72dec3.example']"
+  ],
+  "EPD7B7DQ": [
+    "C2 Beacon: Connected to suspicious domains ['svc-d72f45.gov.example', 'svc-1ca9c2.gov.example', 'svc-247cbb.gov.example']"
+  ],
+  "EPT7QLXR": [
+    "C2 Beacon: Connected to suspicious domains ['svc-d72f45.gov.example', 'svc-c06b6c.gov.example', 'svc-247cbb.gov.example']"
+  ],
+  "EPGHTVEF": [
+    "C2 Beacon: Connected to suspicious domains ['svc-c06b6c.gov.example', 'n4937.svc-c4f9a4.gov.example', 'sso.svc-c4f9a4.gov.example']"
+  ],
+  "EPHR4FSL": [
+    "C2 Beacon: Connected to suspicious domains ['svc-c06b6c.gov.example', 'svc-1ca9c2.gov.example', 'www.nbc6e.svc-ebcad2.gov.example']"
+  ],
+  "EPQ3UAYV": [
+    "C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'static.svc-5603a2.example', 'www.svc-e83fe0.gov.example']"
+  ],
+  "EPRWDOV2": [
+    "C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'api1.svc-46426a.gov.example', 'n22ce.svc-72dec3.example']"
+  ],
+  "EPARWEH7": [
+    "C2 Beacon: Connected to suspicious domains ['n6d63.svc-00e076.gov.example', 'svc-5d803b.gov.example', 'nfaa3.svc-00e076.gov.example']"
+  ],
+  "EPCQBKSG": [
+    "C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'static.svc-5603a2.example', 'svc-60aaca.gov.example']"
+  ],
+  "EP6TZCQ6": [
+    "C2 Beacon: Connected to suspicious domains ['svc-d72f45.gov.example', 'svc-1ca9c2.gov.example', 'svc-247cbb.gov.example']"
+  ],
+  "EPUO3HHV": [
+    "C2 Beacon: Connected to suspicious domains ['svc-1ca9c2.gov.example', 'www.n0733.svc-8e8375.example', 'n9fa9.svc-347513.example']"
+  ],
+  "EPUTB7FS": [
+    "C2 Beacon: Connected to suspicious domains ['svc-c06b6c.gov.example', 'svc-1ca9c2.gov.example', 'na128.svc-c4f9a4.gov.example']"
+  ],
+  "EPNWM26Q": [
+    "C2 Beacon: Connected to suspicious domains ['svc-1ca9c2.gov.example', 'svc-c06b6c.gov.example', 'svc-247cbb.gov.example']"
+  ],
+  "EPURTVI7": [
+    "C2 Beacon: Connected to suspicious domains ['n5cfd.svc-7059b8.gov.example', 'www.svc-6044e5.gov.example', 'n22ce.svc-72dec3.example']"
+  ],
+  "EP65VPYQ": [
+    "C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'n7f34.svc-d93955.example', 'static.svc-5603a2.example']"
+  ],
+  "EPH5P2EZ": [
+    "C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'n7f34.svc-d93955.example', 'static.svc-5603a2.example']"
+  ],
+  "EPLZ6PWJ": [
+    "C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'n7f34.svc-d93955.example', 'static.svc-5603a2.example']"
+  ],
+  "EP7FZ2XY": [
+    "C2 Beacon: Connected to suspicious domains ['svc-d72f45.gov.example', 'www.nbc6e.svc-ebcad2.gov.example', 'svc-247cbb.gov.example']"
+  ],
+  "EP4PGHIT": [
+    "C2 Beacon: Connected to suspicious domains ['svc-c06b6c.gov.example', 'svc-1ca9c2.gov.example', 'svc-247cbb.gov.example']"
+  ],
+  "EPM4M3ZE": [
+    "C2 Beacon: Connected to suspicious domains ['svc-1ca9c2.gov.example', 'svc-c06b6c.gov.example', 'svc-247cbb.gov.example']"
+  ],
+  "EPNCY7H3": [
+    "C2 Beacon: Connected to suspicious domains ['svc-1ca9c2.gov.example', 'svc-c06b6c.gov.example', 'www.nfb0e.svc-3e0d2b.gov.example']"
+  ],
+  "EPQOEF4W": [
+    "C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'n22ce.svc-72dec3.example', 'n279f.svc-c4f9a4.gov.example']"
+  ],
+  "EPJRQKEK": [
+    "C2 Beacon: Connected to suspicious domains ['svc-c06b6c.gov.example', 'svc-1ca9c2.gov.example', 'svc-247cbb.gov.example']"
+  ],
+  "EPVEKWWM": [
+    "C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'n7f34.svc-d93955.example', 'static.svc-5603a2.example']"
+  ],
+  "EPCPSGXR": [
+    "C2 Beacon: Connected to suspicious domains ['svc-1ca9c2.gov.example', 'svc-c06b6c.gov.example', 'svc-d72f45.gov.example']"
+  ],
+  "EPE4RO5I": [
+    "C2 Beacon: Connected to suspicious domains ['svc-c06b6c.gov.example', 'svc-08de13.example', 'svc-247cbb.gov.example']"
+  ],
+  "EP2C4ZH5": [
+    "C2 Beacon: Connected to suspicious domains ['svc-c06b6c.gov.example', 'svc-1ca9c2.gov.example', 'n9fa9.svc-347513.example']"
+  ],
+  "EPQIWPBQ": [
+    "C2 Beacon: Connected to suspicious domains ['svc-1ca9c2.gov.example', 'svc-d72f45.gov.example', 'svc-247cbb.gov.example']"
+  ],
+  "EPEWYRFX": [
+    "C2 Beacon: Connected to suspicious domains ['svc-c06b6c.gov.example', 'svc-1ca9c2.gov.example', 'www.n0733.svc-8e8375.example']"
+  ],
+  "EPUVWNDY": [
+    "C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'n2d42.svc-813a06.gov.example', 'n22ce.svc-72dec3.example']"
+  ],
+  "EP5KBVLG": [
+    "C2 Beacon: Connected to suspicious domains ['svc-1ca9c2.gov.example', 'www.svc-f6088d.example', 'n9fa9.svc-347513.example']"
+  ],
+  "EPFFTO5T": [
+    "C2 Beacon: Connected to suspicious domains ['svc-1ca9c2.gov.example', 'svc-c06b6c.gov.example', 'svc-247cbb.gov.example']"
+  ],
+  "EP6WOB2Q": [
+    "C2 Beacon: Connected to suspicious domains ['n279f.svc-c4f9a4.gov.example', 'svc-d72f45.gov.example', 'svc-247cbb.gov.example']"
+  ],
+  "EPG52BAX": [
+    "C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'n22ce.svc-72dec3.example', 'svc-1ca9c2.gov.example']"
+  ],
+  "EP2EVFKU": [
+    "C2 Beacon: Connected to suspicious domains ['svc-1ca9c2.gov.example', 'svc-c06b6c.gov.example', 'svc-247cbb.gov.example']"
+  ],
+  "EPRZ27TP": [
+    "C2 Beacon: Connected to suspicious domains ['www.n0733.svc-8e8375.example', 'n9fa9.svc-347513.example', 'svc-e881d1.example']"
+  ],
+  "EPBIBHNA": [
+    "C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'static.svc-5603a2.example', 'n22ce.svc-72dec3.example']"
+  ],
+  "EPHBRTQ2": [
+    "C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'static.svc-5603a2.example', 'svc-60aaca.gov.example']"
+  ],
+  "EPNZ47AH": [
+    "C2 Beacon: Connected to suspicious domains ['svc-1ca9c2.gov.example', 'svc-c06b6c.gov.example', 'svc-d72f45.gov.example']"
+  ],
+  "EPIHPLA2": [
+    "C2 Beacon: Connected to suspicious domains ['static.svc-5603a2.example', 'n9f9c.svc-d93955.example', 'n5dd6.svc-d93955.example']"
+  ],
+  "EPAM6DF7": [
+    "C2 Beacon: Connected to suspicious domains ['svc-c06b6c.gov.example', 'svc-1ca9c2.gov.example', 'n9fa9.svc-347513.example']"
+  ],
+  "EPAPPPPN": [
+    "C2 Beacon: Connected to suspicious domains ['www.n0733.svc-8e8375.example', 'svc-aa724f.gov.example', 'n9fa9.svc-347513.example']"
+  ],
+  "EPZETVZS": [
+    "C2 Beacon: Connected to suspicious domains ['static.svc-5603a2.example', 'n5dd6.svc-d93955.example', 'n307e.svc-d93955.example']"
+  ],
+  "EPIXXNDT": [
+    "C2 Beacon: Connected to suspicious domains ['svc-d72f45.gov.example', 'svc-c06b6c.gov.example', 'svc-247cbb.gov.example']"
+  ],
+  "EP3JZO7Y": [
+    "C2 Beacon: Connected to suspicious domains ['svc-d72f45.gov.example', 'svc-1ca9c2.gov.example', 'svc-247cbb.gov.example']"
+  ],
+  "EPF5L3TA": [
+    "C2 Beacon: Connected to suspicious domains ['svc-1ca9c2.gov.example', 'n22ce.svc-72dec3.example', 'time1.na754.svc-d6c357.example']"
+  ],
+  "EP4RS3P7": [
+    "C2 Beacon: Connected to suspicious domains ['svc-d72f45.gov.example', 'svc-247cbb.gov.example', 'www.n0733.svc-8e8375.example']"
+  ],
+  "EPQISSR3": [
+    "C2 Beacon: Connected to suspicious domains ['static.svc-5603a2.example', 'svc-e881d1.example', 'n5dd6.svc-d93955.example']"
+  ],
+  "EP3SKSVQ": [
+    "C2 Beacon: Connected to suspicious domains ['n279f.svc-c4f9a4.gov.example', 'svc-1ca9c2.gov.example', 'svc-c06b6c.gov.example']"
+  ],
+  "EPELOQ73": [
+    "C2 Beacon: Connected to suspicious domains ['svc-1ca9c2.gov.example', 'www.svc-a89427.gov.example', 'svc-ac05b6.gov.example']"
+  ],
+  "EPJBGHPZ": [
+    "C2 Beacon: Connected to suspicious domains ['www.n0733.svc-8e8375.example', 'n9954.svc-e45e1d.gov.example', 'svc-cff0c2.gov.example']"
+  ],
+  "EP7XJK3C": [
+    "C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'svc-aa724f.gov.example', 'svc-18b8e9.gov.example']"
+  ],
+  "EPJRRWOP": [
+    "C2 Beacon: Connected to suspicious domains ['svc-c06b6c.gov.example', 'svc-1ca9c2.gov.example', 'www.n0733.svc-8e8375.example']"
+  ],
+  "EPTMFZSX": [
+    "C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'n7f34.svc-d93955.example', 'static.svc-5603a2.example']"
+  ],
+  "EPALDFJP": [
+    "C2 Beacon: Connected to suspicious domains ['svc-c06b6c.gov.example', 'svc-1ca9c2.gov.example', 'www.n0733.svc-8e8375.example']"
+  ],
+  "EPI5GLUK": [
+    "C2 Beacon: Connected to suspicious domains ['svc-c06b6c.gov.example', 'svc-1ca9c2.gov.example', 'www.n0733.svc-8e8375.example']"
+  ],
+  "EPR3CJU6": [
+    "C2 Beacon: Connected to suspicious domains ['nfaa3.svc-00e076.gov.example', 'svc-1ca9c2.gov.example', 'svc-247cbb.gov.example']"
+  ],
+  "EPY2ASSU": [
+    "C2 Beacon: Connected to suspicious domains ['svc-c06b6c.gov.example', 'svc-1ca9c2.gov.example', 'n22ce.svc-72dec3.example']"
+  ],
+  "EPQA4SVZ": [
+    "C2 Beacon: Connected to suspicious domains ['svc-d72f45.gov.example', 'svc-1ca9c2.gov.example', 'svc-247cbb.gov.example']"
+  ],
+  "EPCKIU6N": [
+    "C2 Beacon: Connected to suspicious domains ['svc-c06b6c.gov.example', 'svc-1ca9c2.gov.example', 'svc-247cbb.gov.example']"
+  ],
+  "EP6IKT5R": [
+    "C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'n7f34.svc-d93955.example', 'static.svc-5603a2.example']"
+  ],
+  "EPPJ5DMQ": [
+    "C2 Beacon: Connected to suspicious domains ['svc-d72f45.gov.example', 'svc-c06b6c.gov.example', 'svc-247cbb.gov.example']"
+  ],
+  "EPGPX2E7": [
+    "C2 Beacon: Connected to suspicious domains ['svc-c06b6c.gov.example', 'svc-1ca9c2.gov.example', 'svc-d72f45.gov.example']"
+  ],
+  "EPZOABKY": [
+    "C2 Beacon: Connected to suspicious domains ['www.svc-408b88.gov.example', 'www.n0733.svc-8e8375.example', 'n9fa9.svc-347513.example']"
+  ],
+  "EPIEVJCR": [
+    "C2 Beacon: Connected to suspicious domains ['svc-1ca9c2.gov.example', 'svc-c06b6c.gov.example', 'nfaa3.svc-00e076.gov.example']"
+  ],
+  "EPBIT7ZS": [
+    "C2 Beacon: Connected to suspicious domains ['svc-1ca9c2.gov.example', 'svc-c06b6c.gov.example', 'www.svc-44b9cf.example']"
+  ],
+  "EPGN44A5": [
+    "C2 Beacon: Connected to suspicious domains ['na8e8.svc-c8b313.gov.example', 'static.svc-5603a2.example', 'svc-f57174.example']"
+  ],
+  "EPBZVWPM": [
+    "C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'n7f34.svc-d93955.example', 'static.svc-5603a2.example']"
+  ],
+  "EPPI5OVD": [
+    "C2 Beacon: Connected to suspicious domains ['www.svc-3e9d15.gov.example', 'n32c5.svc-c4f9a4.gov.example', 'portal.svc-8e0b0f.gov.example']"
+  ],
+  "EPJTXZSB": [
+    "C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'static.svc-5603a2.example', 'n9f9c.svc-d93955.example']"
+  ],
+  "EP7FLWZB": [
+    "C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'static.svc-5603a2.example', 'n9f9c.svc-d93955.example']"
+  ],
+  "EPIBYMGG": [
+    "C2 Beacon: Connected to suspicious domains ['svc-1ca9c2.gov.example', 'svc-c06b6c.gov.example', 'svc-247cbb.gov.example']"
+  ],
+  "EPBMNHPG": [
+    "C2 Beacon: Connected to suspicious domains ['n279f.svc-c4f9a4.gov.example', 'svc-d72f45.gov.example', 'svc-1ca9c2.gov.example']"
+  ],
+  "EPJCQSGS": [
+    "C2 Beacon: Connected to suspicious domains ['n279f.svc-c4f9a4.gov.example', 'svc-1ca9c2.gov.example', 'svc-c06b6c.gov.example']"
+  ],
+  "EPFE66OS": [
+    "C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'static.svc-5603a2.example', 'n5dd6.svc-d93955.example']"
+  ],
+  "EP7PCCYI": [
+    "C2 Beacon: Connected to suspicious domains ['nd075.svc-7a02a3.gov.example', 'n22ce.svc-72dec3.example', 'n2da4.svc-7a02a3.gov.example']"
+  ],
+  "EP6SCJIM": [
+    "C2 Beacon: Connected to suspicious domains ['www.svc-3e9d15.gov.example', 'n32c5.svc-c4f9a4.gov.example', 'svc-fb65ef.gov.example']"
+  ],
+  "EPKBJO66": [
+    "C2 Beacon: Connected to suspicious domains ['static.svc-5603a2.example', 'n9fa9.svc-347513.example', 'mail.svc-d93955.example']"
+  ],
+  "EP5U5X2I": [
+    "C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'static.svc-5603a2.example', 'n9f9c.svc-d93955.example']"
+  ],
+  "EPBUUL45": [
+    "C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'n7f34.svc-d93955.example', 'static.svc-5603a2.example']"
+  ],
+  "EPL4KXNW": [
+    "C2 Beacon: Connected to suspicious domains ['www.svc-60aaca.gov.example', 'static.svc-5603a2.example', 'www.svc-4cdfed.gov.example']"
+  ],
+  "EPPXBL74": [
+    "C2 Beacon: Connected to suspicious domains ['svc-c06b6c.gov.example', 'svc-1ca9c2.gov.example', 'svc-247cbb.gov.example']"
+  ],
+  "EPQ6H57A": [
+    "C2 Beacon: Connected to suspicious domains ['svc-1ca9c2.gov.example', 'svc-d72f45.gov.example', 'svc-247cbb.gov.example']"
+  ],
+  "EPNME2LP": [
+    "C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'static.svc-5603a2.example', 'n5dd6.svc-d93955.example']"
+  ],
+  "EPKTB5NE": [
+    "C2 Beacon: Connected to suspicious domains ['svc-c06b6c.gov.example', 'svc-1ca9c2.gov.example', 'svc-247cbb.gov.example']"
+  ],
+  "EPNXD2NI": [
+    "C2 Beacon: Connected to suspicious domains ['www.svc-3e9d15.gov.example', 'n32c5.svc-c4f9a4.gov.example', 'static.svc-5603a2.example']"
+  ],
+  "EPWNKSRM": [
+    "C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'n22ce.svc-72dec3.example', 'nd8d4.svc-3e9d15.gov.example']"
+  ],
+  "EPJ7BIHC": [
+    "C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'n7f34.svc-d93955.example', 'static.svc-5603a2.example']"
+  ],
+  "EPGHGYUU": [
+    "C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'static.svc-5603a2.example', 'n9f9c.svc-d93955.example']"
+  ],
+  "EP4C4STG": [
+    "C2 Beacon: Connected to suspicious domains ['svc-d72f45.gov.example', 'svc-1ca9c2.gov.example', 'svc-247cbb.gov.example']"
+  ],
+  "EPIZFLLQ": [
+    "C2 Beacon: Connected to suspicious domains ['n7f34.svc-d93955.example', 'static.svc-5603a2.example', 'n9f9c.svc-d93955.example']"
+  ],
+  "EP3XZALW": [
+    "C2 Beacon: Connected to suspicious domains ['static.svc-5603a2.example', 'n5dd6.svc-d93955.example', 'n307e.svc-d93955.example']"
+  ],
+  "EPXXUZPL": [
+    "C2 Beacon: Connected to suspicious domains ['svc-e014ff.gov.example', 'svc-d72f45.gov.example', 'svc-1ca9c2.gov.example']"
+  ],
+  "EPWADX3W": [
+    "C2 Beacon: Connected to suspicious domains ['n22ce.svc-72dec3.example', 'svc-1ca9c2.gov.example', 'n6d63.svc-00e076.gov.example']"
+  ],
+  "EPVOVTRD": [
+    "C2 Beacon: Connected to suspicious domains ['n279f.svc-c4f9a4.gov.example', 'n4937.svc-c4f9a4.gov.example', 'svc-247cbb.gov.example']"
+  ],
+  "EPDR3POY": [
+    "C2 Beacon: Connected to suspicious domains ['svc-c06b6c.gov.example', 'svc-1ca9c2.gov.example', 'www.n0733.svc-8e8375.example']"
+  ],
+  "EPV25MPO": [
+    "C2 Beacon: Connected to suspicious domains ['svc-c06b6c.gov.example', 'svc-d72f45.gov.example', 'svc-247cbb.gov.example']"
+  ],
+  "EPC7TXDE": [
+    "C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'n7f34.svc-d93955.example', 'static.svc-5603a2.example']"
+  ],
+  "EPBG5SVE": [
+    "C2 Beacon: Connected to suspicious domains ['svc-c06b6c.gov.example', 'svc-d72f45.gov.example', 'svc-247cbb.gov.example']"
+  ],
+  "EP55ZUGP": [
+    "C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'static.svc-5603a2.example', 'n5dd6.svc-d93955.example']"
+  ],
+  "EPIE7YGU": [
+    "C2 Beacon: Connected to suspicious domains ['static.svc-5603a2.example', 'svc-e881d1.example', 'n9f9c.svc-d93955.example']"
+  ],
+  "EP4WW2QO": [
+    "C2 Beacon: Connected to suspicious domains ['svc-1ca9c2.gov.example', 'svc-c06b6c.gov.example', 'na128.svc-c4f9a4.gov.example']"
+  ],
+  "EPZL6TNQ": [
+    "C2 Beacon: Connected to suspicious domains ['svc-c06b6c.gov.example', 'svc-6b0de2.example', 'n9fa9.svc-347513.example']"
+  ],
+  "EPYLSVPL": [
+    "C2 Beacon: Connected to suspicious domains ['static.svc-5603a2.example', 'n9f9c.svc-d93955.example', 'n5dd6.svc-d93955.example']"
+  ],
+  "EPZ4RN7K": [
+    "C2 Beacon: Connected to suspicious domains ['svc-1ca9c2.gov.example', 'svc-c06b6c.gov.example', 'www.n0733.svc-8e8375.example']"
+  ],
+  "EP2YUIUX": [
+    "C2 Beacon: Connected to suspicious domains ['svc-d72f45.gov.example', 'svc-1ca9c2.gov.example', 'svc-247cbb.gov.example']"
+  ],
+  "EPCLJGKA": [
+    "C2 Beacon: Connected to suspicious domains ['n279f.svc-c4f9a4.gov.example', 'n4937.svc-c4f9a4.gov.example', 'svc-c4e3ba.gov.example']"
+  ],
+  "EPMUW4SM": [
+    "C2 Beacon: Connected to suspicious domains ['static.svc-5603a2.example', 'n5dd6.svc-d93955.example', 'n307e.svc-d93955.example']"
+  ],
+  "EPYXIF66": [
+    "C2 Beacon: Connected to suspicious domains ['www.svc-2d3d6f.gov.example', 'n22ce.svc-72dec3.example', 'www.n0733.svc-8e8375.example']"
+  ],
+  "EPPWQND4": [
+    "C2 Beacon: Connected to suspicious domains ['svc-1ca9c2.gov.example', 'svc-c06b6c.gov.example', 'svc-247cbb.gov.example']"
+  ],
+  "EPTDOI6T": [
+    "C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'n7f34.svc-d93955.example', 'static.svc-5603a2.example']"
+  ],
+  "EPSMPJ6E": [
+    "C2 Beacon: Connected to suspicious domains ['svc-c06b6c.gov.example', 'svc-5d803b.gov.example', 'n9fa9.svc-347513.example']"
+  ],
+  "EPAX5P5D": [
+    "C2 Beacon: Connected to suspicious domains ['svc-d72f45.gov.example', 'n4937.svc-c4f9a4.gov.example', 'n279f.svc-c4f9a4.gov.example']"
+  ],
+  "EPN2FFTL": [
+    "C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'static.svc-5603a2.example', 'n9f9c.svc-d93955.example']"
+  ],
+  "EPADG3JU": [
+    "C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'static.svc-5603a2.example', 'n5dd6.svc-d93955.example']"
+  ],
+  "EPXQDYTY": [
+    "C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'n22ce.svc-72dec3.example', 'svc-1ca9c2.gov.example']"
+  ],
+  "EPKJTRB2": [
+    "C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'static.svc-5603a2.example', 'n5dd6.svc-d93955.example']"
+  ],
+  "EP6WDXYR": [
+    "C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'n22ce.svc-72dec3.example', 'n279f.svc-c4f9a4.gov.example']"
+  ],
+  "EP5NU2IP": [
+    "C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'n22ce.svc-72dec3.example', 'www.svc-4a7143.gov.example']"
+  ],
+  "EPCRFN4D": [
+    "C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'svc-e881d1.example', 'ndfd5.svc-1943de.gov.example']"
+  ],
+  "EPE556O2": [
+    "C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'svc-60aaca.gov.example', 'n0af4.svc-7a028b.gov.example']"
+  ],
+  "EP7OWDTR": [
+    "C2 Beacon: Connected to suspicious domains ['static.svc-5603a2.example', 'n5dd6.svc-d93955.example', 'n307e.svc-d93955.example']"
+  ],
+  "EPUTH546": [
+    "C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'n22ce.svc-72dec3.example', 'n279f.svc-c4f9a4.gov.example']"
+  ],
+  "EPTVIEOE": [
+    "C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'n22ce.svc-72dec3.example', 'n279f.svc-c4f9a4.gov.example']"
+  ],
+  "EPLKONPA": [
+    "C2 Beacon: Connected to suspicious domains ['www.svc-60aaca.gov.example', 'www.svc-3e9d15.gov.example', 'n32c5.svc-c4f9a4.gov.example']"
+  ],
+  "EPL7JJQY": [
+    "C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'static.svc-5603a2.example', 'n5dd6.svc-d93955.example']"
+  ],
+  "EPGJZAX6": [
+    "C2 Beacon: Connected to suspicious domains ['svc-1ca9c2.gov.example', 'n279f.svc-c4f9a4.gov.example', 'na128.svc-c4f9a4.gov.example']"
+  ],
+  "EPXKHG4K": [
+    "C2 Beacon: Connected to suspicious domains ['n279f.svc-c4f9a4.gov.example', 'svc-1ca9c2.gov.example', 'na128.svc-c4f9a4.gov.example']"
+  ],
+  "EPDO62BH": [
+    "C2 Beacon: Connected to suspicious domains ['svc-d72f45.gov.example', 'svc-c06b6c.gov.example', 'svc-247cbb.gov.example']"
+  ],
+  "EPSRNMSV": [
+    "C2 Beacon: Connected to suspicious domains ['svc-1ca9c2.gov.example', 'n22ce.svc-72dec3.example', 'svc-c06b6c.gov.example']"
+  ],
+  "EPGBKH56": [
+    "C2 Beacon: Connected to suspicious domains ['svc-d72f45.gov.example', 'svc-247cbb.gov.example', 'www.n0733.svc-8e8375.example']"
+  ],
+  "EPE7YMMO": [
+    "C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'n22ce.svc-72dec3.example', 'n279f.svc-c4f9a4.gov.example']"
+  ],
+  "EPSUHSD5": [
+    "C2 Beacon: Connected to suspicious domains ['svc-1ca9c2.gov.example', 'svc-c06b6c.gov.example', 'www.n0733.svc-8e8375.example']"
+  ],
+  "EPB5VWOI": [
+    "C2 Beacon: Connected to suspicious domains ['svc-d72f45.gov.example', 'svc-247cbb.gov.example', 'www.n0733.svc-8e8375.example']"
+  ],
+  "EPLHBJHI": [
+    "C2 Beacon: Connected to suspicious domains ['svc-1ca9c2.gov.example', 'svc-c06b6c.gov.example', 'svc-d72f45.gov.example']"
+  ],
+  "EP3PJJZF": [
+    "C2 Beacon: Connected to suspicious domains ['svc-1ca9c2.gov.example', 'svc-5d803b.gov.example', 'svc-c06b6c.gov.example']"
+  ],
+  "EPX6YJD7": [
+    "C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'n22ce.svc-72dec3.example', 'n279f.svc-c4f9a4.gov.example']"
+  ],
+  "EPPQ2PVU": [
+    "C2 Beacon: Connected to suspicious domains ['svc-d72f45.gov.example', 'n279f.svc-c4f9a4.gov.example', 'svc-247cbb.gov.example']"
+  ],
+  "EPL63W52": [
+    "C2 Beacon: Connected to suspicious domains ['svc-d72f45.gov.example', 'svc-1ca9c2.gov.example', 'svc-c06b6c.gov.example']"
+  ],
+  "EPUWQP4P": [
+    "C2 Beacon: Connected to suspicious domains ['n279f.svc-c4f9a4.gov.example', 'n9fa9.svc-347513.example', 'svc-a5794f.gov.example']"
+  ],
+  "EPQEM443": [
+    "C2 Beacon: Connected to suspicious domains ['static.svc-5603a2.example', 'n5dd6.svc-d93955.example', 'n307e.svc-d93955.example']"
+  ],
+  "EPG67237": [
+    "C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'static.svc-5603a2.example', 'n5dd6.svc-d93955.example']"
+  ],
+  "EPVTGUK4": [
+    "C2 Beacon: Connected to suspicious domains ['svc-d72f45.gov.example', 'svc-247cbb.gov.example', 'www.n0733.svc-8e8375.example']"
+  ],
+  "EPO7DU5Z": [
+    "C2 Beacon: Connected to suspicious domains ['svc-c06b6c.gov.example', 'www.n0733.svc-8e8375.example', 'n9fa9.svc-347513.example']"
+  ],
+  "EPXWWCE7": [
+    "C2 Beacon: Connected to suspicious domains ['svc-1ca9c2.gov.example', 'svc-c06b6c.gov.example', 'svc-774b3d.example']"
+  ],
+  "EPIL2MXD": [
+    "C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'n22ce.svc-72dec3.example', 'n279f.svc-c4f9a4.gov.example']"
+  ],
+  "EPHXH7MS": [
+    "C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'n22ce.svc-72dec3.example', 'n279f.svc-c4f9a4.gov.example']"
+  ],
+  "EPKYURHG": [
+    "C2 Beacon: Connected to suspicious domains ['svc-1ca9c2.gov.example', 'svc-c06b6c.gov.example', 'svc-d72f45.gov.example']"
+  ],
+  "EPWHYCYU": [
+    "C2 Beacon: Connected to suspicious domains ['svc-d72f45.gov.example', 'svc-c06b6c.gov.example', 'svc-247cbb.gov.example']"
+  ],
+  "EPVU2V5T": [
+    "C2 Beacon: Connected to suspicious domains ['svc-1ca9c2.gov.example', 'n22ce.svc-72dec3.example', 'n9fa9.svc-347513.example']"
+  ],
+  "EPZJCG3R": [
+    "C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'static.svc-5603a2.example', 'n5dd6.svc-d93955.example']"
+  ],
+  "EPPTT5KU": [
+    "C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'n7f34.svc-d93955.example', 'static.svc-5603a2.example']"
+  ],
+  "EPGW2NY4": [
+    "C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'n7f34.svc-d93955.example', 'static.svc-5603a2.example']"
+  ],
+  "EP6HECD2": [
+    "C2 Beacon: Connected to suspicious domains ['svc-1ca9c2.gov.example', 'svc-d72f45.gov.example', 'svc-247cbb.gov.example']"
+  ],
+  "EPEPTYRN": [
+    "C2 Beacon: Connected to suspicious domains ['n279f.svc-c4f9a4.gov.example', 'svc-d72f45.gov.example', 'svc-247cbb.gov.example']"
+  ],
+  "EPJJXRUF": [
+    "C2 Beacon: Connected to suspicious domains ['svc-1ca9c2.gov.example', 'svc-c06b6c.gov.example', 'svc-d72f45.gov.example']"
+  ],
+  "EPQHPXVS": [
+    "C2 Beacon: Connected to suspicious domains ['svc-c06b6c.gov.example', 'svc-1ca9c2.gov.example', 'www.n0733.svc-8e8375.example']"
+  ],
+  "EP5JYWEZ": [
+    "C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'n7f34.svc-d93955.example', 'static.svc-5603a2.example']"
+  ],
+  "EPBVEPUN": [
+    "C2 Beacon: Connected to suspicious domains ['svc-1ca9c2.gov.example', 'svc-c06b6c.gov.example', 'svc-247cbb.gov.example']"
+  ],
+  "EPBWRBCV": [
+    "C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'n7f34.svc-d93955.example', 'static.svc-5603a2.example']"
+  ],
+  "EPFV5FDB": [
+    "C2 Beacon: Connected to suspicious domains ['n22ce.svc-72dec3.example', 'n9fa9.svc-347513.example']"
+  ],
+  "EPXVUZL4": [
+    "C2 Beacon: Connected to suspicious domains ['n279f.svc-c4f9a4.gov.example', 'n4937.svc-c4f9a4.gov.example', 'na128.svc-c4f9a4.gov.example']"
+  ],
+  "EPHFTD5E": [
+    "C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'n22ce.svc-72dec3.example', 'svc-1ca9c2.gov.example']"
+  ],
+  "EPFYWUMZ": [
+    "C2 Beacon: Connected to suspicious domains ['static.svc-5603a2.example', 'n9f9c.svc-d93955.example', 'n5dd6.svc-d93955.example']"
+  ],
+  "EP3Z5SXV": [
+    "C2 Beacon: Connected to suspicious domains ['svc-c06b6c.gov.example', 'svc-1ca9c2.gov.example', 'www.n0733.svc-8e8375.example']"
+  ],
+  "EPT4VYZW": [
+    "C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'static.svc-5603a2.example', 'n9f9c.svc-d93955.example']"
+  ],
+  "EPQMSMUV": [
+    "C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'static.svc-5603a2.example', 'n5dd6.svc-d93955.example']"
+  ],
+  "EPTAGDTB": [
+    "C2 Beacon: Connected to suspicious domains ['www.svc-60aaca.gov.example', 'static.svc-5603a2.example', 'n5dd6.svc-d93955.example']"
+  ],
+  "EPR6HUBY": [
+    "C2 Beacon: Connected to suspicious domains ['svc-1ca9c2.gov.example', 'n22ce.svc-72dec3.example', 'n9fa9.svc-347513.example']"
+  ],
+  "EPU5M2ZB": [
+    "C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'n22ce.svc-72dec3.example', 'n279f.svc-c4f9a4.gov.example']"
+  ],
+  "EPUP42UF": [
+    "C2 Beacon: Connected to suspicious domains ['static.svc-5603a2.example', 'n5dd6.svc-d93955.example', 'n307e.svc-d93955.example']"
+  ],
+  "EPD3I3JF": [
+    "C2 Beacon: Connected to suspicious domains ['svc-1ca9c2.gov.example', 'n22ce.svc-72dec3.example', 'svc-c06b6c.gov.example']"
+  ],
+  "EPLFOXSS": [
+    "C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'n7f34.svc-d93955.example', 'static.svc-5603a2.example']"
+  ],
+  "EPNGOVPF": [
+    "C2 Beacon: Connected to suspicious domains ['n22ce.svc-72dec3.example', 'n9fa9.svc-347513.example']"
+  ],
+  "EPDVCZ3P": [
+    "C2 Beacon: Connected to suspicious domains ['svc-c06b6c.gov.example', 'svc-1ca9c2.gov.example', 'svc-247cbb.gov.example']"
+  ],
+  "EPB7PFDD": [
+    "C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'n7f34.svc-d93955.example', 'static.svc-5603a2.example']"
+  ],
+  "EPROB4NT": [
+    "C2 Beacon: Connected to suspicious domains ['svc-d72f45.gov.example', 'svc-247cbb.gov.example', 'www.n0733.svc-8e8375.example']"
+  ],
+  "EP67QOYP": [
+    "C2 Beacon: Connected to suspicious domains ['svc-1ca9c2.gov.example', 'svc-c06b6c.gov.example', 'svc-d72f45.gov.example']"
+  ],
+  "EP4HZ33W": [
+    "C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'static.svc-5603a2.example', 'n9f9c.svc-d93955.example']"
+  ],
+  "EPN6LGXP": [
+    "C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'static.svc-5603a2.example', 'n5dd6.svc-d93955.example']"
+  ],
+  "EPJLQHJM": [
+    "C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'www.svc-6044e5.gov.example', 'n22ce.svc-72dec3.example']"
+  ],
+  "EPRYJZPO": [
+    "C2 Beacon: Connected to suspicious domains ['svc-1ca9c2.gov.example', 'svc-c06b6c.gov.example', 'www.n0733.svc-8e8375.example']"
+  ],
+  "EPLWNRA5": [
+    "C2 Beacon: Connected to suspicious domains ['svc-d72f45.gov.example', 'n279f.svc-c4f9a4.gov.example', 'n4937.svc-c4f9a4.gov.example']"
+  ],
+  "EPQ6OARX": [
+    "C2 Beacon: Connected to suspicious domains ['n279f.svc-c4f9a4.gov.example', 'svc-d72f45.gov.example', 'svc-247cbb.gov.example']"
+  ],
+  "EP6RMQC5": [
+    "C2 Beacon: Connected to suspicious domains ['svc-1ca9c2.gov.example', 'svc-c06b6c.gov.example', 'svc-247cbb.gov.example']"
+  ],
+  "EPMINU2I": [
+    "C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'n7f34.svc-d93955.example', 'static.svc-5603a2.example']"
+  ],
+  "EPMY53PL": [
+    "C2 Beacon: Connected to suspicious domains ['svc-1ca9c2.gov.example', 'sso.svc-c4f9a4.gov.example', 'na128.svc-c4f9a4.gov.example']"
+  ],
+  "EPQTJPGC": [
+    "C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'static.svc-5603a2.example', 'n5dd6.svc-d93955.example']"
+  ],
+  "EPXHJLGU": [
+    "C2 Beacon: Connected to suspicious domains ['svc-1ca9c2.gov.example', 'svc-c06b6c.gov.example', 'www.svc-408b88.gov.example']"
+  ],
+  "EPZQDT6J": [
+    "C2 Beacon: Connected to suspicious domains ['svc-1ca9c2.gov.example', 'svc-c06b6c.gov.example', 'n9fa9.svc-347513.example']"
+  ],
+  "EPYG5XQP": [
+    "C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'static.svc-5603a2.example', 'n5dd6.svc-d93955.example']"
+  ],
+  "EPGQPYHM": [
+    "C2 Beacon: Connected to suspicious domains ['svc-1ca9c2.gov.example', 'svc-d72f45.gov.example', 'svc-247cbb.gov.example']"
+  ],
+  "EPDYIGF3": [
+    "C2 Beacon: Connected to suspicious domains ['svc-d72f45.gov.example', 'svc-247cbb.gov.example', 'www.n0733.svc-8e8375.example']"
+  ],
+  "EPHXCFTB": [
+    "C2 Beacon: Connected to suspicious domains ['svc-d72f45.gov.example', 'svc-1ca9c2.gov.example', 'svc-247cbb.gov.example']"
+  ],
+  "EPME77ML": [
+    "C2 Beacon: Connected to suspicious domains ['www.n0733.svc-8e8375.example', 'n9fa9.svc-347513.example', 'www.svc-2d3d6f.gov.example']"
+  ],
+  "EPTX4FCZ": [
+    "C2 Beacon: Connected to suspicious domains ['svc-1ca9c2.gov.example', 'svc-c06b6c.gov.example', 'svc-d72f45.gov.example']"
+  ],
+  "EP4MZIBL": [
+    "C2 Beacon: Connected to suspicious domains ['svc-1ca9c2.gov.example', 'n22ce.svc-72dec3.example', 'svc-c06b6c.gov.example']"
+  ]
+}
